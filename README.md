@@ -2,7 +2,6 @@
 
 
 <div style="text-align:center">
-<img src="http://www.petercollingridge.co.uk/sites/files/peter/charles_darwin%20and%20co.png" />
 </div>
 
 ## Created by
