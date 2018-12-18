@@ -1,12 +1,8 @@
 ## AI-Draw
 
-
 <div style="text-align:center">
 <img src="https://github.com/peterleng150/CapstoneProject-AIDRAW/blob/master/t1.jpg" width="270" height="300"/>
 </div>
-
-## Created by
-Peter Leng
 
 ## What it does
 
@@ -36,5 +32,6 @@ python -m SimpleHTTPServer
 ```
 This should start a server on port 8000 on your local machine.
 
+Created by Peter Leng
 
 
