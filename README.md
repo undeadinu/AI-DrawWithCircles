@@ -2,7 +2,7 @@
 
 
 <div style="text-align:center">
-![alt text](http://github.com/peterleng150/CapstoneProject-AIDRAW/blob/master/t1.jpg)
+<img src="https://github.com/peterleng150/CapstoneProject-AIDRAW/blob/master/t1.jpg" />
 </div>
 
 ## Created by
