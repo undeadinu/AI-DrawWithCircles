@@ -6,11 +6,7 @@
 </div>
 
 ## Created by
-
-<a href="https://github.com/peterl328">Yang(Peter) Leng</a></br>
-<a href="https://github.com/yidingalan">Alan Yiding Wang</a></br>
-<a href="https://github.com/patrick-wu">Patrick Wu</a></br>
-<a href="https://github.com/zh5930">Leo Hao</a></br>
+Peter Leng
 
 ## Link
 <a href="https://devpost.com/software/ai-draw">Devpost Link</a></br>
@@ -37,7 +33,7 @@ In the end, we were not able to get a visibly optimal solution, but we believe t
 
 ## How to install& run it 
 ```
-git clone https://github.com/PeterL328/AI-Draw.git
+git clone https://github.com/peterleng150/AI-Draw.git
 cd AI-Draw
 python -m SimpleHTTPServer
 ```
