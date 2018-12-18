@@ -2,14 +2,11 @@
 
 
 <div style="text-align:center">
-<img src="https://github.com/peterleng150/CapstoneProject-AIDRAW/blob/master/t1.jpg" />
+<img src="https://github.com/peterleng150/CapstoneProject-AIDRAW/blob/master/t1.jpg" style="height:50%;"/>
 </div>
 
 ## Created by
 Peter Leng
-
-## Link
-<a href="https://devpost.com/software/ai-draw">Devpost Link</a></br>
 
 ## What it does
 
