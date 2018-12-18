@@ -6,7 +6,7 @@
 
 ## What it does
 
-The computer iteratively attempts to mimic an input pictures through drawing it with 100+ circles of varying circle and radii, and continuously improve its accuracy based on a generic genetic algorithm
+The computer iteratively attempts to mimic an input pictures through drawing it with 300+ circles of varying circle and radii, and continuously improve its accuracy based on a generic genetic algorithm
 
 ## How I built it
 
