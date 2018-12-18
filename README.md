@@ -2,7 +2,7 @@
 
 
 <div style="text-align:center">
-<img src="https://github.com/peterleng150/CapstoneProject-AIDRAW/blob/master/t1.jpg" width="200" height="300"/>
+<img src="https://github.com/peterleng150/CapstoneProject-AIDRAW/blob/master/t1.jpg" width="350" height="400"/>
 </div>
 
 ## Created by
